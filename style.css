@@ -1,0 +1,31 @@
+body{
+    background-color: yellowgreen;
+    height:100%;
+}
+.wrapper {
+    text-align: center;
+    color: aqua;
+    width: 800px;
+    margin: 30px auto;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  font-size: 2.6em;
+  text-transform: uppercase;
+}
+button{
+    text-decoration:none;
+    cursor:pointer;
+    font-size:1.2em;
+    padding:18px 10px;
+    width:180px;
+    margin: 10px;
+    outline: none;
+}
